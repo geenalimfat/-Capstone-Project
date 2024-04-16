@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< Updated upstream
 		2DCCA4362BCE4BE6008EFCB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DCCA4352BCE4BE6008EFCB4 /* AppDelegate.swift */; };
 		2DCCA4382BCE4BE6008EFCB4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DCCA4372BCE4BE6008EFCB4 /* SceneDelegate.swift */; };
 		2DCCA43A2BCE4BE6008EFCB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DCCA4392BCE4BE6008EFCB4 /* ViewController.swift */; };
@@ -28,6 +29,29 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		2DCCA42F2BCE4BE6008EFCB4 /* Frameworks */ = {
+=======
+		2DCCA4562BCE4C99008EFCB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DCCA4552BCE4C99008EFCB4 /* AppDelegate.swift */; };
+		2DCCA4582BCE4C99008EFCB4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DCCA4572BCE4C99008EFCB4 /* SceneDelegate.swift */; };
+		2DCCA45A2BCE4C99008EFCB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DCCA4592BCE4C99008EFCB4 /* ViewController.swift */; };
+		2DCCA45D2BCE4C99008EFCB4 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2DCCA45C2BCE4C99008EFCB4 /* Base */; };
+		2DCCA45F2BCE4C9C008EFCB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DCCA45E2BCE4C9C008EFCB4 /* Assets.xcassets */; };
+		2DCCA4622BCE4C9C008EFCB4 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2DCCA4612BCE4C9C008EFCB4 /* Base */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2DCCA4522BCE4C99008EFCB4 /* WanderWise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WanderWise.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DCCA4552BCE4C99008EFCB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2DCCA4572BCE4C99008EFCB4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2DCCA4592BCE4C99008EFCB4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2DCCA45C2BCE4C99008EFCB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2DCCA45E2BCE4C9C008EFCB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2DCCA4612BCE4C9C008EFCB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2DCCA4632BCE4C9C008EFCB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2DCCA44F2BCE4C99008EFCB4 /* Frameworks */ = {
+>>>>>>> Stashed changes
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,6 +61,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+<<<<<<< Updated upstream
 		2DCCA4292BCE4BE6008EFCB4 = {
 			isa = PBXGroup;
 			children = (
@@ -49,10 +74,25 @@
 			isa = PBXGroup;
 			children = (
 				2DCCA4322BCE4BE6008EFCB4 /* WanderWise.app */,
+=======
+		2DCCA4492BCE4C99008EFCB4 = {
+			isa = PBXGroup;
+			children = (
+				2DCCA4542BCE4C99008EFCB4 /* WanderWise */,
+				2DCCA4532BCE4C99008EFCB4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2DCCA4532BCE4C99008EFCB4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2DCCA4522BCE4C99008EFCB4 /* WanderWise.app */,
+>>>>>>> Stashed changes
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
+<<<<<<< Updated upstream
 		2DCCA4342BCE4BE6008EFCB4 /* WanderWise */ = {
 			isa = PBXGroup;
 			children = (
@@ -63,6 +103,18 @@
 				2DCCA43E2BCE4BE9008EFCB4 /* Assets.xcassets */,
 				2DCCA4402BCE4BE9008EFCB4 /* LaunchScreen.storyboard */,
 				2DCCA4432BCE4BE9008EFCB4 /* Info.plist */,
+=======
+		2DCCA4542BCE4C99008EFCB4 /* WanderWise */ = {
+			isa = PBXGroup;
+			children = (
+				2DCCA4552BCE4C99008EFCB4 /* AppDelegate.swift */,
+				2DCCA4572BCE4C99008EFCB4 /* SceneDelegate.swift */,
+				2DCCA4592BCE4C99008EFCB4 /* ViewController.swift */,
+				2DCCA45B2BCE4C99008EFCB4 /* Main.storyboard */,
+				2DCCA45E2BCE4C9C008EFCB4 /* Assets.xcassets */,
+				2DCCA4602BCE4C9C008EFCB4 /* LaunchScreen.storyboard */,
+				2DCCA4632BCE4C9C008EFCB4 /* Info.plist */,
+>>>>>>> Stashed changes
 			);
 			path = WanderWise;
 			sourceTree = "<group>";
@@ -70,6 +122,7 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+<<<<<<< Updated upstream
 		2DCCA4312BCE4BE6008EFCB4 /* WanderWise */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2DCCA4462BCE4BE9008EFCB4 /* Build configuration list for PBXNativeTarget "WanderWise" */;
@@ -77,6 +130,15 @@
 				2DCCA42E2BCE4BE6008EFCB4 /* Sources */,
 				2DCCA42F2BCE4BE6008EFCB4 /* Frameworks */,
 				2DCCA4302BCE4BE6008EFCB4 /* Resources */,
+=======
+		2DCCA4512BCE4C99008EFCB4 /* WanderWise */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2DCCA4662BCE4C9C008EFCB4 /* Build configuration list for PBXNativeTarget "WanderWise" */;
+			buildPhases = (
+				2DCCA44E2BCE4C99008EFCB4 /* Sources */,
+				2DCCA44F2BCE4C99008EFCB4 /* Frameworks */,
+				2DCCA4502BCE4C99008EFCB4 /* Resources */,
+>>>>>>> Stashed changes
 			);
 			buildRules = (
 			);
@@ -84,25 +146,41 @@
 			);
 			name = WanderWise;
 			productName = WanderWise;
+<<<<<<< Updated upstream
 			productReference = 2DCCA4322BCE4BE6008EFCB4 /* WanderWise.app */;
+=======
+			productReference = 2DCCA4522BCE4C99008EFCB4 /* WanderWise.app */;
+>>>>>>> Stashed changes
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
+<<<<<<< Updated upstream
 		2DCCA42A2BCE4BE6008EFCB4 /* Project object */ = {
+=======
+		2DCCA44A2BCE4C99008EFCB4 /* Project object */ = {
+>>>>>>> Stashed changes
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
 				TargetAttributes = {
+<<<<<<< Updated upstream
 					2DCCA4312BCE4BE6008EFCB4 = {
+=======
+					2DCCA4512BCE4C99008EFCB4 = {
+>>>>>>> Stashed changes
 						CreatedOnToolsVersion = 15.3;
 					};
 				};
 			};
+<<<<<<< Updated upstream
 			buildConfigurationList = 2DCCA42D2BCE4BE6008EFCB4 /* Build configuration list for PBXProject "WanderWise" */;
+=======
+			buildConfigurationList = 2DCCA44D2BCE4C99008EFCB4 /* Build configuration list for PBXProject "WanderWise" */;
+>>>>>>> Stashed changes
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,17 +188,27 @@
 				en,
 				Base,
 			);
+<<<<<<< Updated upstream
 			mainGroup = 2DCCA4292BCE4BE6008EFCB4;
 			productRefGroup = 2DCCA4332BCE4BE6008EFCB4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				2DCCA4312BCE4BE6008EFCB4 /* WanderWise */,
+=======
+			mainGroup = 2DCCA4492BCE4C99008EFCB4;
+			productRefGroup = 2DCCA4532BCE4C99008EFCB4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2DCCA4512BCE4C99008EFCB4 /* WanderWise */,
+>>>>>>> Stashed changes
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+<<<<<<< Updated upstream
 		2DCCA4302BCE4BE6008EFCB4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -128,12 +216,22 @@
 				2DCCA43F2BCE4BE9008EFCB4 /* Assets.xcassets in Resources */,
 				2DCCA4422BCE4BE9008EFCB4 /* Base in Resources */,
 				2DCCA43D2BCE4BE6008EFCB4 /* Base in Resources */,
+=======
+		2DCCA4502BCE4C99008EFCB4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2DCCA45F2BCE4C9C008EFCB4 /* Assets.xcassets in Resources */,
+				2DCCA4622BCE4C9C008EFCB4 /* Base in Resources */,
+				2DCCA45D2BCE4C99008EFCB4 /* Base in Resources */,
+>>>>>>> Stashed changes
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+<<<<<<< Updated upstream
 		2DCCA42E2BCE4BE6008EFCB4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -141,24 +239,47 @@
 				2DCCA43A2BCE4BE6008EFCB4 /* ViewController.swift in Sources */,
 				2DCCA4362BCE4BE6008EFCB4 /* AppDelegate.swift in Sources */,
 				2DCCA4382BCE4BE6008EFCB4 /* SceneDelegate.swift in Sources */,
+=======
+		2DCCA44E2BCE4C99008EFCB4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2DCCA45A2BCE4C99008EFCB4 /* ViewController.swift in Sources */,
+				2DCCA4562BCE4C99008EFCB4 /* AppDelegate.swift in Sources */,
+				2DCCA4582BCE4C99008EFCB4 /* SceneDelegate.swift in Sources */,
+>>>>>>> Stashed changes
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+<<<<<<< Updated upstream
 		2DCCA43B2BCE4BE6008EFCB4 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				2DCCA43C2BCE4BE6008EFCB4 /* Base */,
+=======
+		2DCCA45B2BCE4C99008EFCB4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2DCCA45C2BCE4C99008EFCB4 /* Base */,
+>>>>>>> Stashed changes
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
+<<<<<<< Updated upstream
 		2DCCA4402BCE4BE9008EFCB4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				2DCCA4412BCE4BE9008EFCB4 /* Base */,
+=======
+		2DCCA4602BCE4C9C008EFCB4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2DCCA4612BCE4C9C008EFCB4 /* Base */,
+>>>>>>> Stashed changes
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +287,11 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+<<<<<<< Updated upstream
 		2DCCA4442BCE4BE9008EFCB4 /* Debug */ = {
+=======
+		2DCCA4642BCE4C9C008EFCB4 /* Debug */ = {
+>>>>>>> Stashed changes
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -229,7 +354,11 @@
 			};
 			name = Debug;
 		};
+<<<<<<< Updated upstream
 		2DCCA4452BCE4BE9008EFCB4 /* Release */ = {
+=======
+		2DCCA4652BCE4C9C008EFCB4 /* Release */ = {
+>>>>>>> Stashed changes
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -285,7 +414,11 @@
 			};
 			name = Release;
 		};
+<<<<<<< Updated upstream
 		2DCCA4472BCE4BE9008EFCB4 /* Debug */ = {
+=======
+		2DCCA4672BCE4C9C008EFCB4 /* Debug */ = {
+>>>>>>> Stashed changes
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -312,7 +445,11 @@
 			};
 			name = Debug;
 		};
+<<<<<<< Updated upstream
 		2DCCA4482BCE4BE9008EFCB4 /* Release */ = {
+=======
+		2DCCA4682BCE4C9C008EFCB4 /* Release */ = {
+>>>>>>> Stashed changes
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -342,25 +479,45 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+<<<<<<< Updated upstream
 		2DCCA42D2BCE4BE6008EFCB4 /* Build configuration list for PBXProject "WanderWise" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2DCCA4442BCE4BE9008EFCB4 /* Debug */,
 				2DCCA4452BCE4BE9008EFCB4 /* Release */,
+=======
+		2DCCA44D2BCE4C99008EFCB4 /* Build configuration list for PBXProject "WanderWise" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2DCCA4642BCE4C9C008EFCB4 /* Debug */,
+				2DCCA4652BCE4C9C008EFCB4 /* Release */,
+>>>>>>> Stashed changes
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+<<<<<<< Updated upstream
 		2DCCA4462BCE4BE9008EFCB4 /* Build configuration list for PBXNativeTarget "WanderWise" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2DCCA4472BCE4BE9008EFCB4 /* Debug */,
 				2DCCA4482BCE4BE9008EFCB4 /* Release */,
+=======
+		2DCCA4662BCE4C9C008EFCB4 /* Build configuration list for PBXNativeTarget "WanderWise" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2DCCA4672BCE4C9C008EFCB4 /* Debug */,
+				2DCCA4682BCE4C9C008EFCB4 /* Release */,
+>>>>>>> Stashed changes
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
+<<<<<<< Updated upstream
 	rootObject = 2DCCA42A2BCE4BE6008EFCB4 /* Project object */;
+=======
+	rootObject = 2DCCA44A2BCE4C99008EFCB4 /* Project object */;
+>>>>>>> Stashed changes
 }
