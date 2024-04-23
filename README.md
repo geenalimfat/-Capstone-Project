@@ -66,12 +66,13 @@ App that allows you to curate lists on maps and save their location. Users will 
   * Add a name and description to list
   * Add location links to the list
 * User can search within the list
-* User can add their own photo and description to a place 
 
 **Optional Nice-to-have Stories**
 
 * User can filter their search/list based on the name of the place or a keyword
 * User can share and edit with another user
+* * User can add their own photo and description to a place 
+
 
 ### 2. Screen Archetypes
 
@@ -141,3 +142,9 @@ App that allows you to curate lists on maps and save their location. Users will 
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+- 
+
+### Current Issues:
+- Issues building the project
+- Linking MapKit
+  
