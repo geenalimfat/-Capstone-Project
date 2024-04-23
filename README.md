@@ -144,7 +144,20 @@ App that allows you to curate lists on maps and save their location. Users will 
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 - 
 
+
+## Unit 9 Projress:
+### Done so Far:
+Currently trying to rework the previous Task project to be a 'scrum' version of the app.
+
 ### Current Issues:
-- Issues building the project
 - Linking MapKit
-  
+- Searching through list
+- Trying to create a list within a list
+
+  <div>
+    <a href="https://www.loom.com/share/6e926f846b9647dda5daeac92cdd66d3">
+    </a>
+    <a href="https://www.loom.com/share/6e926f846b9647dda5daeac92cdd66d3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6e926f846b9647dda5daeac92cdd66d3-with-play.gif">
+    </a>
+  </div>
