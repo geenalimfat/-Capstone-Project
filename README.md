@@ -145,7 +145,7 @@ App that allows you to curate lists on maps and save their location. Users will 
 - 
 
 
-## Unit 9 Projress:
+## Unit 9 Progress:
 ### Done so Far:
 Currently trying to rework the previous Task project to be a 'scrum' version of the app.
 
@@ -160,4 +160,21 @@ Currently trying to rework the previous Task project to be a 'scrum' version of 
     <a href="https://www.loom.com/share/6e926f846b9647dda5daeac92cdd66d3">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6e926f846b9647dda5daeac92cdd66d3-with-play.gif">
     </a>
+
+## Unit 10 Submission:
+### Submission Description:
+Implemented the Search Bar to bring the places that best match the search bar to the top. 
+
+### Current Issues:
+- Same issues as before
+- Search Bar is not working completely right 
+  - duplicates of the same place are showing + some places that shouldn't
+
+<div>
+    <a href="https://www.loom.com/share/f1fb6103c5124d2898905020c4b084fa">
+    </a>
+    <a href="https://www.loom.com/share/f1fb6103c5124d2898905020c4b084fa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f1fb6103c5124d2898905020c4b084fa-with-play.gif">
+    </a>
+  </div>
   </div>
